@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Alice Smith",
+    "email": "alice@example.com",
+    "summary": "Experienced Full Stack Developer specializing in React and Node.js. 4 years of industry experience.",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Docker", "Python"],
+    "experienceYears": 4,
+    "promotions": 1,
+    "certifications": ["AWS Certified Developer"],
+    "communityContributions": 2
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "summary": "Frontend Specialist with deep expertise in React and UI/UX design. New to backend technologies.",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "Figma"],
+    "experienceYears": 2,
+    "promotions": 0,
+    "certifications": [],
+    "communityContributions": 0
+  },
+  {
+    "name": "Charlie Davis",
+    "email": "charlie@example.com",
+    "summary": "Machine Learning Engineer turned Full Stack Developer. Strong algorithms background.",
+    "skills": ["Python", "Machine Learning", "JavaScript", "React", "Node.js", "Docker"],
+    "experienceYears": 5,
+    "promotions": 2,
+    "certifications": ["Google Cloud ML Engineer"],
+    "communityContributions": 5
+  }
+]
